@@ -2,15 +2,15 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 // APIKEYS !! \\
-global.zenzkey = 'yourapikey',
-global.zxorkey = 'yourapikey',
-global.zenzkey2 = 'yourapikey',
-global.ckey = 'yourapikey',
-global.zeeone = 'yourapikey',
-global.lolkey = 'yourapikey',
-global.frkey = 'yourapikey',
-global.danzz = 'yourapikey',
-global.apidanz = 'yourapikey',
+global.zenzkey = 'kayraachan',
+global.zxorkey = 'lucia',
+global.zenzkey2 = 'kayraachan',
+global.ckey = 'xPxsaElx',
+global.zeeone = 'hCSi66X3',
+global.lolkey = 'kayraachan',
+global.frkey = 'kZgLGZbX',
+global.danzz = '92a2nlkb0j',
+global.apidanz = '92yla710a6',
 
 //aumto functioner
 global.autoTyping = false //auto tying in gc (true to on, false to off)
@@ -27,29 +27,29 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.saweria = "https://saweria.co/xylaa" // saweria donation
+global.saweria = "https://saweria.co/Kayracomell" // saweria donation
 global.sociabuzz = "https://sociabuzz.com/luciaximena/tribe" // saweria donation
 global.nyawer = "https://nyawer.co/cecilia/showcase" // saweria donation
 global.groupwea = "https://chat.whatsapp.com/EJ0c8rr1jrJK7BvxNOZFs2" // group bot
-global.vcardowner = ['6281338302495'] //number
-global.allpay = "082146482998" // nomor pertama / first number donate
-global.ownername = 'Cecilia Lucia Ximena' //owner
-global.email = "📧 vynx14u@gmail.com" //email
+global.vcardowner = ['6289504231588'] //number
+global.allpay = "085942139006" // nomor pertama / first number donate
+global.ownername = '' //owner
+global.email = "📧 kayracakep@gmail.com" //email
 global.website = "luciaximena.site" //github name
 global.location = "🌍 Isekai, Taman Hiburan Milf, Pemandian Umum Wanita" //location
-global.roblox = "👾 Roblox : @JustRyyXD" //roblox
-global.ig = "👑 Instagram : @ravensvenix" //insta
-global.tg = "💙 Telegram : @vmxone" //telegram
+global.roblox = "👾 Roblox : @KyraaXmilf" //roblox
+global.ig = "👑 Instagram : @ch0cochips8_" //insta
+global.tg = "💙 Telegram : @milflike" //telegram
 
 //bot bomdy 
 global.groupbot = "https://chat.whatsapp.com/EJ0c8rr1jrJK7BvxNOZFs2"
-global.owner = ['6281338302495']
-global.ownernomer = "6281338302495" //ur number
-global.ownernomer2 = "6285338440313" // second number
-global.ownernomer3 = "6283899515608" // stfu
-global.ownertag = '6281338302495', '6285338440313', '6283899515608' //ur tag number
-global.botname = 'CeciliaMD' //ur bot name
-global.ghname = 'RavensVenix' //ur github name
+global.owner = ['6289504231588']
+global.ownernomer = "6289504231588" //ur number
+global.ownernomer2 = "6289504231588" // second number
+global.ownernomer3 = "6289504231588" // stfu
+global.ownertag = '6289504231588', '6289504231588', '6289504231588' //ur tag number
+global.botname = 'Minori Chigusa Otsuka' //ur bot name
+global.ghname = 'OtsukaMD' //ur github name
 global.linkz = "https://chat.whatsapp.com/EJ0c8rr1jrJK7BvxNOZFs2" //your theme url which will be displayed on whatsapp
 global.websitex = "https://chat.whatsapp.com/EJ0c8rr1jrJK7BvxNOZFs2" //ur website to be displayed
 global.thumbyt = "https://www.youtube.com/watch?v=aHnaBbLKEww" //change if you want to change thumbnail menu
@@ -58,8 +58,8 @@ global.botscript = 'https://github.com/RavensVenix/sora-bot' //script link
 global.reactmoji = ["👑", "❤️", "✨", "🦋", "🎉", "💴", "💰", "💋", "❤️", "💛", "🧡", "💚", "💙", "💜", "🍇", "🍎", "🎂", "🍓", "🍫", "🍨", "🍩"] //ur menu react emoji
 global.themeemoji = "👑" //ur theme emoji
 global.packname = "CeciliaMD\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n• StickerPack " //ur sticker watermark packname
-global.author = "CeciliaMD" //ur sticker watermark author
-global.wm = "CeciliaMD" //ur watermark
+global.author = "OtsukaMD" //ur sticker watermark author
+global.wm = "OtsukaMD" //ur watermark
 global.shit = `•`
 
 //Bot theme media
@@ -128,7 +128,7 @@ Demo : *https://luciaximena.site*
 *Dijamin Premium Puas!!*
 
 Minat🫐
-Conatct ☎️ : *wa.me/6281338302495*`)
+Conatct ☎️ : *wa.me/6289504231588*`)
 global.rules = (`「 *RULES* 」
 	  「 *INDONESIAN* 」
 
